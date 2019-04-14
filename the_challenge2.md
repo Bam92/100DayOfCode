@@ -15,3 +15,7 @@
 ### Today's Progress: Work on CSS of FCC Survay form challenge
 ### Thaughts: The UI is a bit well presented thanks to CSS revision
 ### [Link to work](https://codepen.io/bam92/pen/yGXepm)
+
+## Day 4: Apr 14. Sun.
+### Work on chap 2 first exercise of the book Eloquent JS 3rd ed.
+### I am thinking to make the exercise more dynamic where the user can enter the sign to be printed, and propose it to [App Idea](https://github.com/florinpop17/app-ideas).
