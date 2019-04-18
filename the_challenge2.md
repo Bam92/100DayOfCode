@@ -22,3 +22,6 @@
 
 ## D 5: Apr 16. Tue
 ### Still continuing my reading of ejs book. Resolved FizzBuzz challenge
+
+## D 6: Apr 17. Wed
+### [ejs book] min and recursion exercises.
